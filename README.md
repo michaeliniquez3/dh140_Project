@@ -25,3 +25,6 @@
 
 * Conclusion 
 > > On top of analyzing migration patterns, it is important to shed light on the conditions immigrants face upon arrival. Many venture into a new country with the hopes of opportunity yet the situations they find themselves in tend to be different than what they envisioned as “The American Dream”.  In conclusion, we expect our results to demonstrate the increase in cost for immigrants in most recent years when attempting to cross the border, as well as an increase in wages for immigrants in comparison to their earnings in Mexico. We hope that our research can help demonstrate a need for aid for these immigrants and perhaps be of use as evidence to provide a better legal system that will allow for a more efficient and safe form of border crossing. 
+
+To get to an interactive verison of this, click here: 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/michaeliniquez3/dh140_Project.git/HEAD)
